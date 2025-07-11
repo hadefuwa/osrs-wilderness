@@ -2,6 +2,9 @@
 
 A simple React app to track and display deaths in the Old School RuneScape (OSRS) Wilderness. This project is designed for beginners and uses only basic JavaScript and React.
 
+<img width="1843" height="850" alt="image" src="https://github.com/user-attachments/assets/3a9738de-a1fb-4e09-959a-edeb3ae2ca23" />
+
+
 ## Features
 - Track deaths in the OSRS Wilderness
 - Simple and clean user interface
