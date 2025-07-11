@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/osrs-wilderness/static/js/main.b2b05f8d.js",
+    "index.html": "/osrs-wilderness/index.html",
+    "main.b2b05f8d.js.map": "/osrs-wilderness/static/js/main.b2b05f8d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2b05f8d.js"
+  ]
+}
